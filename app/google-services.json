@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "876218749255",
+    "project_id": "applicationanalytics-b170d",
+    "storage_bucket": "applicationanalytics-b170d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876218749255:android:7d226673bb2af3da057c62",
+        "android_client_info": {
+          "package_name": "com.example.applicationanalytics"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLGjCxbdlWKy2g_h4Nbx50awkcLdXswJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
